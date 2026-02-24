@@ -1,8 +1,8 @@
 ### Youtube search list project
-Its simple react project that allows you to search for youtube videos and display them
+Its simple React project that allows users to search for YouTube videos and display them
 
 #### Steps:
-##### 1. Create the next.js app:
+##### 1. Create the Next.js app:
       npx create-next-app@latest youtube-search-app
 
 ##### 2. Set up youtube API key:
@@ -33,5 +33,5 @@ Its simple react project that allows you to search for youtube videos and displa
 ##### 5. Open your browser and go to:
       http://localhost:3000
 
-##### 6.Screenshot:
+#### Screenshot:
 ![1](https://raw.githubusercontent.com/HananMurrar/YouTubeSearchListWeb/main/youtube-search-app/result.png)
