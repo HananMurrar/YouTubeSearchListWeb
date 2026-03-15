@@ -1,17 +1,17 @@
-### Youtube search list project
+### YouTube search list project
 Its simple React project that allows users to search for YouTube videos and display them
 
 #### Steps:
 ##### 1. Create the Next.js app:
       npx create-next-app@latest youtube-search-app
 
-##### 2. Set up youtube API key:
-- Go to google cloud console
+##### 2. Set up YouTube API key:
+- Go to Google cloud console
 - Create a new project
-- Navigate to APIs and services, then library, then enable youtube data API v3
+- Navigate to APIs and services, then library, then enable YouTube data API
 - Go to APIs and services, then credentials and create an API key
-- After create API click show key to code it
-- Create a .env.local file in the root of your project and add: NEXT_PUBLIC_YOUTUBE_API_KEY=YOUR_API_KEY_HERE
+- After create API click show key to copy it
+- Create a `.env.local` file in the root of your project and add `NEXT_PUBLIC_YOUTUBE_API_KEY = YOUR_API_KEY_HERE`
 
 ##### 3. Create the files in this structure:
 ```
